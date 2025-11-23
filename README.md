@@ -23,10 +23,6 @@ Given a string s, return the longest palindromic substring in s.
 - All identical characters → returns the full string  
 - Single-character string → returns the character itself
 
-#  Complexity:
-- Time complexity: O(N²)
-- Space complexity: O(1)
-
 #  Advantages:
 - Reduces unnecessary expansions by focusing on likely centres.
 - Leverages mathematical symmetry of palindromes
